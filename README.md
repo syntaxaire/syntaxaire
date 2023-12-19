@@ -7,3 +7,5 @@ My other hobbies include orchestral music, computing history, and exploring the 
 Most recently, I am a staff software engineer at [ion8](https://ion8.net/).
 
 My email address is syntaxaire@gmail.com.
+
+Some of my most active projects have moved to the [Trash Monks](https://github.com/TrashMonks) GitHub organization.
