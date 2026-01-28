@@ -5,6 +5,8 @@ a full stack developer in Python, JavaScript, and TypeScript
 a system administrator with extensive experience in Windows, Linux, containerized, and cloud operating environments  
 an orchestral musician  
 security researcher  
+avid reader  
+generalist  
 and lover of nature.
 
 My email address is syntaxaire@gmail.com.
