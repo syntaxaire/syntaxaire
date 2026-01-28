@@ -9,6 +9,8 @@ avid reader
 generalist  
 and lover of nature.
 
+I specialize in everything.
+
 My email address is syntaxaire@gmail.com.
 
 Some of my more active projects have moved to the [Trash Monks](https://github.com/TrashMonks) GitHub organization.  
