@@ -1,15 +1,15 @@
 ### Hi, I'm **syntaxaire**.
 
 I am  
-a full stack developer in Python, JavaScript, and TypeScript  
-a system administrator with extensive experience in Windows, Linux, containerized, and cloud operating environments  
-an orchestral musician  
+full stack developer in Python, JavaScript, and TypeScript  
+system administrator with extensive experience in Windows, Linux, containerized, and cloud operating environments  
+orchestral musician and arranger  
 security researcher  
 avid reader  
-generalist  
+activist  
 and lover of nature.
 
-I specialize in everything.
+I specialize in everything I do, and strive to apply learnings across domain boundaries.
 
 My email address is syntaxaire@gmail.com.
 
